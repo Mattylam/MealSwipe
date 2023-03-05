@@ -49,4 +49,3 @@ Different web scrapping techniques and different ML algorithms.
 ## What's next for MealSwipe
 
 The next step is to expand the dataset and do some user research.  
-![image](https://user-images.githubusercontent.com/109639154/222944599-352fa582-4aa4-4538-8867-750b13778c92.png)
